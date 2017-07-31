@@ -12,4 +12,10 @@
     "remote": "github",
     "branch": "cm-14.1"
   }
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "remote": "github",
+    "branch": "cm-14.1"
+  }
 ]
